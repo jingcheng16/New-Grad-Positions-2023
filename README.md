@@ -58,8 +58,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Abnormal Security](https://careers.abnormalsecurity.com/open-roles?gh_jid=5131426003) | San Francisco, California | New Grad SWE |
 | [~~Audible~~](https://www.amazon.jobs/en/jobs/1999808/software-development-engineer?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=audible&utm_medium=social_media&utm_content=job_posting&ss=paid) | Culver City, CA | Software Development Engineer|
 | [~~Argano~~](https://argano.hrmdirect.com/employment/view.php?req=2024176) | Remote | Junior Software Engineer|
-| [~~Microsoft~~](https://careers.microsoft.com/us/en/job/1388843/Software-Engineering-Full-Time-Opportunities-for-University-Graduates?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed)  | USA  | New Graduate Software Engineer |
-| [~~Uber~~](https://university-uber.icims.com/jobs/116884/job) | San Francisco, Sunnyvale, CA; Seattle, WA; Boulder, CO; New York, NY; Toronto, ON | New Grad - Software Engineer I |
+| ✅[~~Microsoft~~](https://careers.microsoft.com/us/en/job/1388843/Software-Engineering-Full-Time-Opportunities-for-University-Graduates?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed)  | USA  | New Graduate Software Engineer |
+| ✅[~~Uber~~](https://university-uber.icims.com/jobs/116884/job) | San Francisco, Sunnyvale, CA; Seattle, WA; Boulder, CO; New York, NY; Toronto, ON | New Grad - Software Engineer I |
 | [~~Lawrence Livermore National Laboratory~~](https://www.llnl.gov/join-our-team/careers/find-your-job/all/software%20developer/3743990000246205) | Livermore, CA or remote | Software Developer |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454918&req_id=311) | Multiple | Software Engineer & [Algo Software Engineer](https://www.hudsonrivertrading.com/careers/job/?_4118765=Full-Time%3A+New+Grad&_4168241=Software+Engineering%3AC%2B%2B&gh_jid=4454781&req_id=310). For the roles in other locations, search for the job title on their website. |
 | [Roblox](https://jobs.roblox.com/careers?gh_jid=4395968) | San Mateo, CA| Software Engineer - New Grad (Summer 2023)|
@@ -102,7 +102,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Textron Specialized Vehicles](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=303763) | Augusta, GA | 2023 Software Engineer I |
 | [Gordian Software](https://jobs.ashbyhq.com/GordianSoftware/80539622-fb89-4806-9d1f-b319d100fedd/application) | Bellevue, WA & remote | Software Engineer (New College Graduate) |
 | [Neuralink](https://boards.greenhouse.io/neuralink/jobs/5285569003) | Fremont, CA & more | Software Engineer (Fresh Grad 2023) |
-| [~~Adobe~~](https://adobe.wd5.myworkdayjobs.com/en-US/external_university) | US | Multiple 2023 New Grad Roles | 
+| ✅[~~Adobe~~](https://adobe.wd5.myworkdayjobs.com/en-US/external_university) | US | Multiple 2023 New Grad Roles | 
 | [~~Levvel~~](https://jobs.lever.co/levvel/870a74c2-2ab1-46e4-83ff-c24d620b6c0f?lever-via=Emo8FrYRZ6/) | Remote | Junior Developer (Early Talent 2023) |  
 | [General Motors](https://search-careers.gm.com/jobs/job/entry-level-software-engineering-rotational-program-warren-jr-000089747/) | Warren, MI | Entry-Level Software Engineering Rotational Program | 
 | [Mueller Water Products](https://muellerwaterproducts.wd5.myworkdayjobs.com/en-US/Mueller/job/Atlanta-GA/XMLNAME-2023-Software-Engineer-Development-Program_R3169) | Atlanta, GA | 2023 Software Engineer Development Program | 
